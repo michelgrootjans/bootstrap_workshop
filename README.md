@@ -1,4 +1,4 @@
-bootstrap_workshop
-==================
+Twitter Bootstrap Workshop
+==========================
 
-A first glance at twitter bootsrap
+Hands-on workshop to get acquainted with Twitter Bootsrap.
